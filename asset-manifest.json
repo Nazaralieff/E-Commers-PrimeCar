@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/E-Commers-PrimeCar/static/css/main.4efc3288.chunk.css",
+    "main.js": "/E-Commers-PrimeCar/static/js/main.b57b2fe7.chunk.js",
+    "main.js.map": "/E-Commers-PrimeCar/static/js/main.b57b2fe7.chunk.js.map",
+    "runtime-main.js": "/E-Commers-PrimeCar/static/js/runtime-main.a0b0a726.js",
+    "runtime-main.js.map": "/E-Commers-PrimeCar/static/js/runtime-main.a0b0a726.js.map",
+    "static/js/2.735c9f03.chunk.js": "/E-Commers-PrimeCar/static/js/2.735c9f03.chunk.js",
+    "static/js/2.735c9f03.chunk.js.map": "/E-Commers-PrimeCar/static/js/2.735c9f03.chunk.js.map",
+    "static/js/3.61b9fe3f.chunk.js": "/E-Commers-PrimeCar/static/js/3.61b9fe3f.chunk.js",
+    "static/js/3.61b9fe3f.chunk.js.map": "/E-Commers-PrimeCar/static/js/3.61b9fe3f.chunk.js.map",
+    "index.html": "/E-Commers-PrimeCar/index.html",
+    "static/css/main.4efc3288.chunk.css.map": "/E-Commers-PrimeCar/static/css/main.4efc3288.chunk.css.map",
+    "static/js/2.735c9f03.chunk.js.LICENSE.txt": "/E-Commers-PrimeCar/static/js/2.735c9f03.chunk.js.LICENSE.txt",
+    "static/media/img (1).b133ace4.jpg": "/E-Commers-PrimeCar/static/media/img (1).b133ace4.jpg",
+    "static/media/img (10).ed585c39.jpg": "/E-Commers-PrimeCar/static/media/img (10).ed585c39.jpg",
+    "static/media/img (11).bebcf25a.jpg": "/E-Commers-PrimeCar/static/media/img (11).bebcf25a.jpg",
+    "static/media/img (12).dee5a4a2.jpg": "/E-Commers-PrimeCar/static/media/img (12).dee5a4a2.jpg",
+    "static/media/img (13).c46962fb.jpg": "/E-Commers-PrimeCar/static/media/img (13).c46962fb.jpg",
+    "static/media/img (14).5cfd30ae.jfif": "/E-Commers-PrimeCar/static/media/img (14).5cfd30ae.jfif",
+    "static/media/img (2).26c6b5c2.jpg": "/E-Commers-PrimeCar/static/media/img (2).26c6b5c2.jpg",
+    "static/media/img (3).8981f334.jpg": "/E-Commers-PrimeCar/static/media/img (3).8981f334.jpg",
+    "static/media/img (4).bb53a232.jpg": "/E-Commers-PrimeCar/static/media/img (4).bb53a232.jpg",
+    "static/media/img (5).c35c72d4.jpg": "/E-Commers-PrimeCar/static/media/img (5).c35c72d4.jpg",
+    "static/media/img (6).b5d679e5.jpg": "/E-Commers-PrimeCar/static/media/img (6).b5d679e5.jpg",
+    "static/media/img (7).be8ca95a.jpg": "/E-Commers-PrimeCar/static/media/img (7).be8ca95a.jpg",
+    "static/media/img (8).a0cf63fb.jpg": "/E-Commers-PrimeCar/static/media/img (8).a0cf63fb.jpg",
+    "static/media/img (9).6a1047ea.jpg": "/E-Commers-PrimeCar/static/media/img (9).6a1047ea.jpg",
+    "static/media/logo.2904dc30.png": "/E-Commers-PrimeCar/static/media/logo.2904dc30.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0b0a726.js",
+    "static/js/2.735c9f03.chunk.js",
+    "static/css/main.4efc3288.chunk.css",
+    "static/js/main.b57b2fe7.chunk.js"
+  ]
+}
